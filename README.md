@@ -1,7 +1,7 @@
 # Atividade  NoSQL - MongoDB
 *Repositório criado a pedido do professor para explicar resolução da atividade.*
 
-==**PASSOS**==
+**PASSOS**:
 
 - Baixei o MongoDB Compass 
 - Me conectei com o cluster **projeto**, criado previamente em aula, através do link fornecido no MongoDB Atlas e o usuário e senha de acesso que criei também na aula anterior
